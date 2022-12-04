@@ -1,0 +1,19 @@
+.page{
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: rgb(233, 233, 133);
+	padding: 25px;
+}
+.title{
+	font-size: 24px;
+	font-weight: 700;
+}
+.subtitle{
+	font-size: 20px;
+		font-weight: 500;
+}
+
+ol{
+	line-height: 1.5;
+	
+}
